@@ -1,9 +1,6 @@
 
 # Hi! My name is Pablo Portillo and I'm a Full Stack Developer
 
-My first REST API application with Java+Spring Boot, focusing on developing a backend application for managing books
-
-
 ## 🚀 About Me
 Full Stack Developer with a strong background in software development and experience in both Front end and Back endusing the MERN stack. After completing a higher degree in Computer Applications Development and a Full Stack Web Development course, I specialize in application development using JavaScript, HTML, CSS, Node, Express, MongoDB, and React.
 
