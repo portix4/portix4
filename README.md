@@ -11,4 +11,4 @@ Full Stack Developer with a strong background in software development and experi
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=portix4&show_icons=true&locale=en&layout=compact" alt="portix4" /></p>
 
 ## 4️⃣2️⃣ Stats
-[![pportill's 42 stats](https://badge.mediaplus.ma/darkblue/pportill)](https://github.com/oakoudad/badge42))
+[![pportill's 42 stats](https://badge.mediaplus.ma/darkblue/pportill)](https://github.com/oakoudad/badge42)
